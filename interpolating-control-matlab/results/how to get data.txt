@@ -1,0 +1,15 @@
+vyhodnocení kvality regulace kvadrotorové helikoptéry
+	
+1) spustit get_sim_data v adresáři sim
+2) přejít do results/scripts
+3) spustit analyse_sim_output
+4) spustit cost_sim_output
+5) spustit cost_table
+
+OR
+
+nebo spustit v results/scripts
+
+get_complete_results
+
+Pozn. negeneruje nové grafy
