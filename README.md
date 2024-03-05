@@ -1,4 +1,4 @@
-#Trajectory Planning and Tracking for Unmanned Aerial Vehicles
+# Trajectory Planning and Tracking for Unmanned Aerial Vehicles
 
 This repository includes source files together with the esential parameters of controllers and simulation models together with some experimental files for both Trajectory Tracking and Planning. All files were created as part of a dissertation on Trajectory Planning and Tracking for Unmanned Aerial Vehicles. The text of Doctoral Thesis is included in file `thesis.pdf`.
 
