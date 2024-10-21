@@ -17,3 +17,5 @@ In `uav-traj-ic-py` there is python implementation of IC trajectory tracking tog
 For both parts of the trajectory tracking, files with the results and accompanying data that were generated during the evaluation are posted at 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10683586.svg)](https://doi.org/10.5281/zenodo.10683586)
 
+### Video with UAV Trajectory Tracking
+[![Watch the video](https://img.youtube.com/vi/guzADKNLg90/maxresdefault.jpg)](https://youtu.be/guzADKNLg90?si=b59eJHqcwh9xkjY6)
